@@ -14,13 +14,13 @@
 
 Frontend developer with 3+ years of self-taught learning in tech, plus another 3 years of professional experience, currently studying Information Technology Analyst at ORT Uruguay. Quick learner, proactive, and a strong team player, I'm looking to keep growing in the tech world beyond the developer role. I have a particular interest in design systems and in caring about the aesthetics of every project, combining functionality with a polished user experience.
 
-Frontend developer at Quanam (consulting firm). I build web interfaces with React/Next.js/Astro and desktop apps with Tauri + Rust.
+Frontend developer at Quanam (consulting firm). I build web interfaces with React/Next.js/Astro/Angular and desktop apps with Tauri + Rust.
 
 ---
 
 ## What I do
 
-- Frontend development with **React**, **Next.js** and **Astro**
+- Frontend development with **React**, **Next.js**, **Astro** and **Angular**
 - Native desktop apps with **Tauri + Rust**
 - Interfaces with **Tailwind CSS**
 - Maintenance of legacy projects in **PHP**
@@ -33,6 +33,7 @@ Frontend developer at Quanam (consulting firm). I build web interfaces with Reac
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
