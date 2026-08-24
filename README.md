@@ -10,16 +10,16 @@
 
 ## About me
 
-20 años, desarrollador frontend en Quanam (consultora). Construyo interfaces web con React/Next.js/Astro y apps de escritorio con Tauri + Rust.
+20 years old, frontend developer at Quanam (consulting firm). I build web interfaces with React/Next.js/Astro and desktop apps with Tauri + Rust.
 
 ---
 
 ## What I do
 
-- Frontend con **React**, **Next.js** y **Astro**
-- Apps de escritorio nativas con **Tauri + Rust**
-- Interfaces con **Tailwind CSS**
-- Mantenimiento de proyectos legacy en **PHP**
+- Frontend development with **React**, **Next.js** and **Astro**
+- Native desktop apps with **Tauri + Rust**
+- Interfaces with **Tailwind CSS**
+- Maintenance of legacy projects in **PHP**
 
 ---
 
