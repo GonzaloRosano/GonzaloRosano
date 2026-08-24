@@ -4,6 +4,8 @@
 
 **Software Developer · Frontend @ Quanam**
 
+[![Quanam](https://img.shields.io/badge/Quanam-Frontend%20Developer-059669?style=for-the-badge)](https://www.quanam.com)
+
 </div>
 
 ---
