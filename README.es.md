@@ -14,13 +14,13 @@
 
 Desarrollador frontend con más de 3 años de aprendizaje autodidacta en tecnología, más otros 3 años de experiencia profesional, actualmente cursando Analista en Tecnologías de la Información en ORT Uruguay. Rápido para aprender, proactivo y con buena capacidad de trabajo en equipo, busco seguir creciendo en el mundo tech más allá del rol de developer. Tengo especial interés en los sistemas de diseño y en cuidar la estética de cada trabajo, combinando funcionalidad con una experiencia de usuario prolija.
 
-Desarrollador frontend en Quanam (consultora). Construyo interfaces web con React/Next.js/Astro y apps de escritorio con Tauri + Rust.
+Desarrollador frontend en Quanam (consultora). Construyo interfaces web con React/Next.js/Astro/Angular y apps de escritorio con Tauri + Rust.
 
 ---
 
 ## Qué hago
 
-- Frontend con **React**, **Next.js** y **Astro**
+- Frontend con **React**, **Next.js**, **Astro** y **Angular**
 - Apps de escritorio nativas con **Tauri + Rust**
 - Interfaces con **Tailwind CSS**
 - Mantenimiento de proyectos legacy en **PHP**
