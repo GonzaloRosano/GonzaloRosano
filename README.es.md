@@ -2,9 +2,9 @@
 
 # Hola, soy Gonzalo 👋
 
-**Software Developer**
+**Desarrollador de Software**
 
-[![Quanam](https://img.shields.io/badge/Quanam-Frontend%20Developer-ff0066?style=for-the-badge)](https://www.quanam.com)
+[![Quanam](https://img.shields.io/badge/Quanam-Desarrollador%20Frontend-ff0066?style=for-the-badge)](https://www.quanam.com)
 
 </div>
 
@@ -27,7 +27,7 @@ Desarrollador frontend en Quanam (consultora). Construyo interfaces web con Reac
 
 ---
 
-## Tech Stack
+## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
