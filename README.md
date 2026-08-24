@@ -39,16 +39,6 @@ Frontend developer at Quanam (consulting firm). I build web interfaces with Reac
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=GonzaloRosano&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## Contact
 
 - 📧 rosanogonzalo@gmail.com
