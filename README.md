@@ -2,7 +2,7 @@
 
 # Hey, I'm Gonzalo 👋
 
-**Software Developer · Frontend @ Quanam**
+**Software Developer**
 
 [![Quanam](https://img.shields.io/badge/Quanam-Frontend%20Developer-059669?style=for-the-badge)](https://www.quanam.com)
 
