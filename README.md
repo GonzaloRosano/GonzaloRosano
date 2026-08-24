@@ -10,7 +10,9 @@
 
 ## About me
 
-20 years old, frontend developer at Quanam (consulting firm). I build web interfaces with React/Next.js/Astro and desktop apps with Tauri + Rust.
+Frontend developer with 3+ years of self-taught learning in tech, plus another 3 years of professional experience, currently studying Information Technology Analyst at ORT Uruguay. Quick learner, proactive, and a strong team player, I'm looking to keep growing in the tech world beyond the developer role. I have a particular interest in design systems and in caring about the aesthetics of every project, combining functionality with a polished user experience.
+
+Frontend developer at Quanam (consulting firm). I build web interfaces with React/Next.js/Astro and desktop apps with Tauri + Rust.
 
 ---
 
