@@ -2,9 +2,12 @@
 
 # Hola, soy Gonzalo 👋
 
-**Desarrollador de Software**
+**Desarrollador frontend · Montevideo, Uruguay**
 
 [![Quanam](https://img.shields.io/badge/Quanam-Desarrollador%20Frontend-ff0066?style=for-the-badge)](https://www.quanam.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grosano.vercel.app-18181b?style=for-the-badge)](https://grosano.vercel.app)
+
+Abierto a trabajo **full-time** y proyectos **freelance**.
 
 </div>
 
@@ -12,18 +15,32 @@
 
 ## Sobre mí
 
-Desarrollador frontend con más de 3 años de aprendizaje autodidacta en tecnología, más otros 3 años de experiencia profesional, actualmente cursando Analista en Tecnologías de la Información en ORT Uruguay. Rápido para aprender, proactivo y con buena capacidad de trabajo en equipo, busco seguir creciendo en el mundo tech más allá del rol de developer. Tengo especial interés en los sistemas de diseño y en cuidar la estética de cada trabajo, combinando funcionalidad con una experiencia de usuario prolija.
+Desarrollador frontend en [Quanam](https://www.quanam.com), una consultora, trabajando en proyectos para clientes de distintos países. Más de 3 años de aprendizaje autodidacta en tecnología, actualmente cursando Analista en Tecnologías de la Información en ORT Uruguay.
 
-Desarrollador frontend en Quanam (consultora). Construyo interfaces web con React/Next.js/Astro/Angular y apps de escritorio con Tauri + Rust.
+Rápido para aprender, proactivo y con buena capacidad de trabajo en equipo. Me interesan los sistemas de diseño y cuidar la estética de cada proyecto, combinando funcionalidad con una experiencia de usuario prolija. Fuera del trabajo construyo herramientas de escritorio y de terminal con Rust y Go.
 
 ---
 
 ## Qué hago
 
 - Frontend con **React**, **Next.js**, **Astro** y **Angular**
+- Sitios de contenido con **PayloadCMS**
 - Apps de escritorio nativas con **Tauri + Rust**
 - Interfaces con **Tailwind CSS**
 - Mantenimiento de proyectos legacy en **PHP**
+
+---
+
+## Proyectos destacados
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [Normativas Animals City](https://animalscity-rp.vercel.app) | Normativa con buscador para una comunidad de rol | Next.js · TypeScript |
+| [Plasma Studios](https://plasmastudios.vercel.app) | Sitio de marketing de un estudio de hosting de Minecraft | Astro |
+| [Dark Feather Group](https://dfgroup-one.vercel.app) | Sitio web de un colectivo creativo y estudio digital | Astro |
+| [Aruberuto Makoto](https://aruberuto.vercel.app) | Landing de un curso de japonés online | Astro |
+
+Más en [grosano.vercel.app](https://grosano.vercel.app).
 
 ---
 
@@ -44,5 +61,7 @@ Desarrollador frontend en Quanam (consultora). Construyo interfaces web con Reac
 
 ## Contacto
 
-- 📧 rosanogonzalo@gmail.com
-- 💻 [github.com/GonzaloRosano](https://github.com/GonzaloRosano)
+- 🌐 [grosano.vercel.app](https://grosano.vercel.app)
+- 📧 [rosanogonzalo@gmail.com](mailto:rosanogonzalo@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gonzalorosano/)
+- 📄 CV: [Español](https://grosano.vercel.app/cv-gonzalo-rosano.pdf) · [English](https://grosano.vercel.app/cv-gonzalo-rosano-en.pdf)

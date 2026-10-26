@@ -2,9 +2,12 @@
 
 # Hey, I'm Gonzalo 👋
 
-**Software Developer**
+**Frontend developer · Montevideo, Uruguay**
 
 [![Quanam](https://img.shields.io/badge/Quanam-Frontend%20Developer-ff0066?style=for-the-badge)](https://www.quanam.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grosano.vercel.app-18181b?style=for-the-badge)](https://grosano.vercel.app)
+
+Open to **full-time** roles and **freelance** projects.
 
 </div>
 
@@ -12,18 +15,32 @@
 
 ## About me
 
-Frontend developer with 3+ years of self-taught learning in tech, plus another 3 years of professional experience, currently studying Information Technology Analyst at ORT Uruguay. Quick learner, proactive, and a strong team player, I'm looking to keep growing in the tech world beyond the developer role. I have a particular interest in design systems and in caring about the aesthetics of every project, combining functionality with a polished user experience.
+Frontend developer at [Quanam](https://www.quanam.com), a consulting firm, working on projects for clients in different countries. Over 3 years of self-taught learning in tech, currently studying Information Technology Analyst at ORT Uruguay.
 
-Frontend developer at Quanam (consulting firm). I build web interfaces with React/Next.js/Astro/Angular and desktop apps with Tauri + Rust.
+Quick learner, proactive and a strong team player. I care about design systems and about the aesthetics of every project, combining functionality with a polished user experience. Outside of work I build desktop and terminal tools with Rust and Go.
 
 ---
 
 ## What I do
 
 - Frontend development with **React**, **Next.js**, **Astro** and **Angular**
+- Content sites with **PayloadCMS**
 - Native desktop apps with **Tauri + Rust**
 - Interfaces with **Tailwind CSS**
 - Maintenance of legacy projects in **PHP**
+
+---
+
+## Selected projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Normativas Animals City](https://animalscity-rp.vercel.app) | Searchable rulebook for a roleplay community | Next.js · TypeScript |
+| [Plasma Studios](https://plasmastudios.vercel.app) | Marketing site for a Minecraft hosting studio | Astro |
+| [Dark Feather Group](https://dfgroup-one.vercel.app) | Website for a creative collective and digital studio | Astro |
+| [Aruberuto Makoto](https://aruberuto.vercel.app) | Landing page for an online Japanese course | Astro |
+
+More at [grosano.vercel.app](https://grosano.vercel.app).
 
 ---
 
@@ -44,5 +61,7 @@ Frontend developer at Quanam (consulting firm). I build web interfaces with Reac
 
 ## Contact
 
-- 📧 rosanogonzalo@gmail.com
-- 💻 [github.com/GonzaloRosano](https://github.com/GonzaloRosano)
+- 🌐 [grosano.vercel.app](https://grosano.vercel.app)
+- 📧 [rosanogonzalo@gmail.com](mailto:rosanogonzalo@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gonzalorosano/)
+- 📄 CV: [English](https://grosano.vercel.app/cv-gonzalo-rosano-en.pdf) · [Español](https://grosano.vercel.app/cv-gonzalo-rosano.pdf)
